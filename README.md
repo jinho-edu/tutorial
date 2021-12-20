@@ -1,2 +1,2 @@
 # tutorial
-git_tutoriala
+git_tutorials
